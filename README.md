@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @kmisiejuk
-- 👀 I’m interested in web devepoment, frontend development. 
-- 🌱 I’m currently learning HTML, CSS, JS, REACT. I,m try to sti inprove my skills. 
+- 👋 Hi, I’m @kmisiejuk and I'm aspire to be a frontend developer. 
+- 👀 I’m interested in web developoment, frontend development. 
+- 🌱 I’m currently learning HTML, CSS, JS, REACT. I,m try to still inprove my skills. 
 - 💞️ I’m looking to collaborate on creating website development. 
-- 📫 How to reach me kmisiejuk15@gmail.com 
+- 📫 How to reach me kmisiejuk15@gmail.com
+
+  
 
 <!---
 kmisiejuk/kmisiejuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
