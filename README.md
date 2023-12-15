@@ -1,5 +1,9 @@
-# 👋 Hi, I’m Krzysztof Misieju
+# 👋 Hi, I’m Krzysztof Misiejuk
 #         @kmisiejuk 
+
+🔗
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/krzysztof-misiejuk-aa1149178/)
+&nbsp;
 
 - 🎈I'm aspire to be a frontend developer. 
 - 👀 I’m interested in web developoment, frontend development. 
